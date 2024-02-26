@@ -31,11 +31,11 @@ const Basket: React.FC = () => {
                   <Box
                     component="img"
                     style={{
-                      
-                      height: "60%",
-                      maxWidth: "6%",
+
+                      height: "40px",
+                      maxWidth: "40px",
                       borderRadius: "50%",
-                      border:'2px solid black'
+                      // border:'2px solid black'
                      
                     }}
                     alt="The house from the offer."
